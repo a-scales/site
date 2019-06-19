@@ -1,0 +1,4 @@
+baseURL = "/"
+theme = "astheme"
+languageCode = "en-us"
+title = "Andrew Scales"

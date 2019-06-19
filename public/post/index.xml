@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jun 2019 10:04:26 -0400</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>/post/second/</link>
+      <pubDate>Wed, 19 Jun 2019 10:04:26 -0400</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Hi there. My first Hugo post</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Wed, 19 Jun 2019 10:01:01 -0400</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>Test!</description>
+    </item>
+    
+  </channel>
+</rss>

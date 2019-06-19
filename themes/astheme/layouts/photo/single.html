@@ -1,0 +1,7 @@
+{{ range .Resources }}
+<li><a href="{{ .RelPermalink }}">{{ .ResourceType | title }}</a></li>
+<img src="{{.RelPermalink}}">
+{{ end }}
+<img src="{{.Params.PP}}">
+
+
